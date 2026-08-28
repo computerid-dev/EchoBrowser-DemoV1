@@ -1,0 +1,13 @@
+{
+  "name": "echo-browser",
+  "version": "1.0.0",
+  "description": "EchoBrowser — browser mini berbasis website dengan identitas visual Neo-Brutalism. Tanpa backend, tanpa API key, tanpa scraping — 100% HTML, CSS, JavaScript murni.",
+  "private": true,
+  "scripts": {
+    "dev": "npx serve .",
+    "start": "npx serve ."
+  },
+  "keywords": ["echo-browser", "static-site", "iframe-browser", "neo-brutalism"],
+  "author": "Tim Echo",
+  "license": "MIT"
+}
